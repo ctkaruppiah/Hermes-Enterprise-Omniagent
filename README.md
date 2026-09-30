@@ -1,4 +1,4 @@
-# Hermes-Scribe Enterprise OmniAgent
+# Hermes-Enterprise-OmniAgent
 
 [![Notion PRD](https://shields.io)](https://notion.site)
 
